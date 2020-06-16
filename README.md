@@ -2,16 +2,19 @@
 
 
 Microcuentos
+Hacer el agosto
 
 # Parte 1
 
 14-02-1812
+Hiyab rojo
 Carne roja
 50 vueltas
 Blanco, negro, verde
 El espejo de IKEA
 Su propia medicina
 En sus zapatos
+Heridos, buscando
 A ninguna parte
 Blackout 1
 Caronte
@@ -40,9 +43,11 @@ Arena
 Mariposas y huracanes
 Demasiadas expectativas
 Vaho y Niebla
+Grafiti
 Una habitación de hotel
 Munch y Van Gogh
 Tema para un tapiz
+Interior noche
 AE
 FIAT
 Doblemente preparado
@@ -70,6 +75,7 @@ Fondo blanco
 Se va
 El sonido de sus pasos
 Mi mano
+Gotas de un mismo río
 Sobreexposición
 Vale la pena
 Únicos
@@ -83,8 +89,9 @@ Náufrago
 Duda razonable
 NANA
 No fumo
-El lobo que soy
+
 File not found
 Unos zapatos inesperados
 Tu voz es como una almohada...
 Acaba el trabajo
+El lobo que soy
