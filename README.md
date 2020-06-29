@@ -1,17 +1,15 @@
 # El_vuelo_de_los_Ping-inos
-
 Microcuentos
 Hacer el agosto
 
-# Parte 1 (23)
+# Parte 1 (21)
 Hiyab rojo
 14-02-1812
-Carne roja
 50 vueltas
+Carne roja
 Una habitación de hotel
 Blanco, negro, verde
 El espejo de IKEA
-Su propia medicina
 En sus zapatos
 Heridos, buscando
 A ninguna parte
@@ -21,7 +19,6 @@ Yo le enseñaré
 Qué cosas
 Pura química
 Menú degustación
-Viento
 Circular 11
 En negro
 Sangre
@@ -62,6 +59,7 @@ Pan duro
 Back to the present
 Otra
 Por los pelos
+Su propia medicina
 Una sola cosa
 El nuevo traje nuevo del emperador
 Pasan el agua
