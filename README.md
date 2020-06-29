@@ -1,5 +1,5 @@
 # El_vuelo_de_los_Ping-inos
-21+23+21+13= 88 textos
+22+23+23+13= 88 textos
 Microcuentos
 Hacer el agosto
 
@@ -40,19 +40,21 @@ Arena
 Mariposas y huracanes
 Demasiadas expectativas
 Vaho y Niebla
+¿Jugamos?
 Munch y Van Gogh
 Tema para un tapiz
 Interior noche
 AE
 FIAT
 Doblemente preparado
+La ciudad eterna
 El reto
 Un día duro _ Caballo de madera Troya
 Soy noticia
 Mi cocina
 Playas que son invierno
 
-# Parte 3 (21)
+# Parte 3 (23)
 El Zahir
 El patrón
 Ruido sordo
@@ -63,6 +65,7 @@ Otra
 Por los pelos
 Su propia medicina
 Una sola cosa
+Jazz cat
 El nuevo traje nuevo del emperador
 Pasan el agua
 Remontar
