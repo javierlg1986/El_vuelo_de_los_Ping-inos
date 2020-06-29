@@ -25,7 +25,7 @@ Menú degustación
 Circular 11
 Vaho y Niebla
 Sangre
-Lejos
+Lejos (669)
 Muy amable, gracias
 Respirar agua
 
