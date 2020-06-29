@@ -1,5 +1,5 @@
 # El_vuelo_de_los_Ping-inos
-21+23+21+13
+21+23+21+13= 88 textos
 Microcuentos
 Hacer el agosto
 
