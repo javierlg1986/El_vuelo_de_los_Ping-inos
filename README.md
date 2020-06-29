@@ -3,12 +3,13 @@
 Microcuentos
 Hacer el agosto
 
-# Parte 1 (21)
+# Parte 1 (22)
 Hiyab rojo
 14-02-1812
 50 vueltas
 Carne roja
 Una habitación de hotel
+La exploradora
 Blanco, negro, verde
 El espejo de IKEA
 En sus zapatos
