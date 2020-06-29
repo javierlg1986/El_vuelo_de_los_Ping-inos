@@ -3,12 +3,13 @@
 Microcuentos
 Hacer el agosto
 
-# Parte 1 (22)
+# Parte 1 (24)
 Hiyab rojo
 14-02-1812
 50 vueltas
 Carne roja
 Una habitación de hotel
+La guinda del pastel
 La exploradora
 Blanco, negro, verde
 El espejo de IKEA
@@ -24,15 +25,17 @@ Menú degustación
 Circular 11
 En negro
 Sangre
+Lejos
 Muy amable, gracias
 Respirar agua
 
-# Parte 2 (23)
+# Parte 2 (27)
 Esperando a los bárbaros
 Una vez, dos veces, tres veces
 Toda esa pobre gente
 5 sentidos
 Playa - Cuando baje la marea
+Los cuerpos son como cuchillos
 Anuncios por palabras 123
 88 patas
 A la caída
@@ -50,11 +53,13 @@ Doblemente preparado
 La ciudad eterna
 El reto
 Un día duro _ Caballo de madera Troya
+La penúltima
 Soy noticia
 Mi cocina
+Las calles de hueso
 Playas que son invierno
 
-# Parte 3 (23)
+# Parte 3 (24)
 El Zahir
 El patrón
 Ruido sordo
@@ -69,6 +74,7 @@ Jazz cat
 El nuevo traje nuevo del emperador
 Pasan el agua
 Remontar
+La ventana parlante
 Fondo blanco
 Se va
 El sonido de sus pasos
@@ -80,7 +86,6 @@ Vale la pena
 Que viene el coco
 
 # Parte 4 (13)
-
 Un juego macabro
 Náufrago
 Duda razonable
