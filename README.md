@@ -10,9 +10,9 @@ Hiyab rojo
 Carne roja
 Una habitación de hotel
 La guinda del pastel
-La exploradora
 Blanco, negro, verde
-El espejo de IKEA
+La exploradora
+El espejo de IKEA (Espejo espejito)
 En sus zapatos
 Heridos, buscando
 A ninguna parte
@@ -23,7 +23,7 @@ Qué cosas
 Pura química
 Menú degustación
 Circular 11
-En negro
+Vaho y Niebla
 Sangre
 Lejos
 Muy amable, gracias
@@ -42,7 +42,7 @@ A la caída
 Arena
 Mariposas y huracanes
 Demasiadas expectativas
-Vaho y Niebla
+En negro
 ¿Jugamos?
 Munch y Van Gogh
 Tema para un tapiz
