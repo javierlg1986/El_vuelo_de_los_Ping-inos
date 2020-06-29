@@ -1,22 +1,21 @@
 # El_vuelo_de_los_Ping-inos
 
-
 Microcuentos
 Hacer el agosto
 
-# Parte 1
-
-14-02-1812
+# Parte 1 (23)
 Hiyab rojo
+14-02-1812
 Carne roja
 50 vueltas
+Una habitación de hotel
 Blanco, negro, verde
 El espejo de IKEA
 Su propia medicina
 En sus zapatos
 Heridos, buscando
 A ninguna parte
-Blackout 1
+Blackout
 Caronte
 Yo le enseñaré
 Qué cosas
@@ -29,8 +28,7 @@ Sangre
 Muy amable, gracias
 Respirar agua
 
-# Parte 2
-
+# Parte 2 (23)
 Esperando a los bárbaros
 Una vez, dos veces, tres veces
 Toda esa pobre gente
@@ -41,34 +39,30 @@ Anuncios por palabras 123
 A la caída
 Arena
 Mariposas y huracanes
-Gotas de un mismo río
 Demasiadas expectativas
 Vaho y Niebla
-Grafiti
-Una habitación de hotel
 Munch y Van Gogh
 Tema para un tapiz
 Interior noche
 AE
 FIAT
 Doblemente preparado
-Otra
-Por los pelos
-Una sola cosa
 El reto
 Un día duro _ Caballo de madera Troya
 Soy noticia
 Mi cocina
 Playas que son invierno
 
-# Parte 3
-
+# Parte 3 (21)
 El Zahir
 El patrón
 Ruido sordo
 Pan duro
 23 pares de ojos
 Back to the present
+Otra
+Por los pelos
+Una sola cosa
 El nuevo traje nuevo del emperador
 Pasan el agua
 Remontar
@@ -76,23 +70,24 @@ Fondo blanco
 Se va
 El sonido de sus pasos
 Mi mano
-Gotas de un mismo río
+Grafiti
 Sobreexposición
 Vale la pena
 Únicos
 Que viene el coco
 
-# Parte 4
+# Parte 4 (13)
 
-14-02-2117
 Un juego macabro
 Náufrago
 Duda razonable
 NANA
 No fumo
 Invisibles
+Gotas de un mismo río
 File not found
 Unos zapatos inesperados
 Tu voz es como una almohada...
 Acaba el trabajo
+14-02-2117
 El lobo que soy
