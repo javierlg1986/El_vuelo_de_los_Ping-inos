@@ -38,14 +38,12 @@ Playa - Cuando baje la marea
 Los cuerpos son como cuchillos
 Anuncios por palabras 123
 88 patas
-A la caída
 Arena
 Mariposas y huracanes
 Demasiadas expectativas
 En negro
 ¿Jugamos?
 Munch y Van Gogh
-Tema para un tapiz
 Interior noche
 AE
 FIAT
@@ -53,7 +51,6 @@ Doblemente preparado
 La ciudad eterna
 El reto
 Un día duro _ Caballo de madera Troya
-La penúltima
 Soy noticia
 Mi cocina
 Las calles de hueso
