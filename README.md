@@ -58,8 +58,8 @@ Playas que son invierno
 
 # Parte 3 (24)
 El Zahir
-El patrón
 Ruido sordo
+El patrón
 Pan duro
 23 pares de ojos
 Back to the present
