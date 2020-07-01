@@ -1,9 +1,9 @@
 # El_vuelo_de_los_Ping-inos
-22+23+23+13= 88 textos
+23+25+23+12= 83 textos
 Microcuentos
 Hacer el agosto
 
-# Parte 1 (24)
+# Parte 1 (23)
 Hiyab rojo
 14-02-1812
 50 vueltas
@@ -24,12 +24,11 @@ Pura química
 Menú degustación
 Circular 11
 Vaho y Niebla
-Sangre
 Lejos (669)
 Muy amable, gracias
 Respirar agua
 
-# Parte 2 (27)
+# Parte 2 (25)
 Esperando a los bárbaros
 Una vez, dos veces, tres veces
 Toda esa pobre gente
@@ -56,7 +55,7 @@ Mi cocina
 Las calles de hueso
 Playas que son invierno
 
-# Parte 3 (24)
+# Parte 3 (23)
 El Zahir
 Ruido sordo
 El patrón
@@ -72,8 +71,7 @@ El nuevo traje nuevo del emperador
 Pasan el agua
 Remontar
 La ventana parlante
-Fondo blanco
-Se va
+Fondo blanco (Perro blanco)
 El sonido de sus pasos
 Mi mano
 Grafiti
@@ -82,7 +80,7 @@ Vale la pena
 Únicos
 Que viene el coco
 
-# Parte 4 (13)
+# Parte 4 (12)
 Un juego macabro
 Náufrago
 Duda razonable
@@ -92,7 +90,6 @@ No fumo
 Gotas de un mismo río
 File not found
 Unos zapatos inesperados
-Tu voz es como una almohada...
 Acaba el trabajo
 14-02-2117
 El lobo que soy
